@@ -1,4 +1,4 @@
-//![MasterHead]()
+
 # 💫 About Me:
 I have just graduated from the Computer Programming department. In the field of software, I have knowledge about Java, especially Java, C# Form and MSSQL. I am also very interested in mobile application development, although my knowledge is limited. I have knowledge in many programs in the field of design. I am very interested in graphic design, especially UI/UX and current artificial intelligence (ChatGPT, Midjourney) and I am developing myself. I am also a perfectionist and detail-oriented person.
 
