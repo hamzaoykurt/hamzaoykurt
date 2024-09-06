@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFBnxm_lsKWHw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725622556774?e=1730937600&v=beta&t=rnoQ3mctl90tFSokPcKC-7OVC65r25GrZzINpg3q0gc)
+![MasterHead]()
 # 💫 About Me:
 I have just graduated from the Computer Programming department. In the field of software, I have knowledge about Java, especially Java, C# Form and MSSQL. I am also very interested in mobile application development, although my knowledge is limited. I have knowledge in many programs in the field of design. I am very interested in graphic design, especially UI/UX and current artificial intelligence (ChatGPT, Midjourney) and I am developing myself. I am also a perfectionist and detail-oriented person.
 
